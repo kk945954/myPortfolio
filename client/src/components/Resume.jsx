@@ -139,8 +139,8 @@ export default function Resume(props) {
       <ResumeHeading
         heading="Cooking"
         description="I gain enhanced flavors and ingredients from creativity in cooking, and attention to detail 
-                     brings me well-executed meals. Curiosity in the culinary realm expands my knowledge and understanding 
-                     of different ingredients, techniques, and flavors, ultimately enhancing my culinary skills."
+                     brings me well-executed meals. Curiosity expands my understanding of different techniques, 
+                     ultimately enhancing my perspective towards different taste in the world."
       />
       <ResumeHeading
         heading="Traveling"
