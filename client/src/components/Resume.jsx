@@ -85,7 +85,7 @@ export default function Resume(props) {
       description: "Discover my meticulously crafted portfolio website, showcasing my skills, experiences, and creative work. Experience a captivating showcase of my projects and achievements, reflecting my expertise and passion for delivering impactful results.",
       subHeading: "Technologies Used: React, JavaScript, HTML5, CSS3, Rxjs",
       gitIcon: "bi bi-github",
-      gitLink: "",
+      gitLink: "https://github.com/kk945954/myPortfolio",
       demoIcon: "bi bi-link-45deg",
       demoLink: ""
 
