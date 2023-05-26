@@ -1,0 +1,21 @@
+:root{
+    --light-blue : #04C3FF;
+    --light-blue-shadow: #45d3ff45;
+    --sea-green: #0ABEAD;
+    --sea-green-dark: #0CBFAE;
+    --sea-green-extra-dark: #09BEAD;
+    --sea-green-shadow: #0bbead66;
+    --header-hamburger-background : #0bbeadcc;
+    --orange: #F57F17;
+    --dark-orange: #FF5823;
+    --orange-shadow: #f57f1733;
+    --white: #ffffff;
+    --black: #333333;
+    --disabled-btn: #09bead7a;
+    --error-message:  #e44f4fd1;
+    --toast-error: #e44f4ffa;
+    --toast-shadow:  #9c9c9ce3;
+    --toast-success: #0CBFAE;
+    --loader-color: #0CBFAE;
+    --navy-blue: #1f2235;
+}
