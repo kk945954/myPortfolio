@@ -29,7 +29,7 @@ export default function Profile() {
                                 I'm a
                                 <Typewriter
                                     options={{
-                                        strings: ['Full Stack | Web Dev💻', 'Dedicated Engineer🔥', 'Ramen Lover🍜'],
+                                        strings: ['Full Stack | Web Dev💻', 'Database Developer🗃️', 'Ramen Lover🍜'],
                                         autoStart: true,
                                         loop: true,
                                         deleteSpeed: 30,
@@ -38,7 +38,7 @@ export default function Profile() {
                                 />
                             </h1>
                             <span className='profile-role-tagline'>
-                                Enthusiastic and hardworking web developer with a passion for learning and creating.
+                                Enthusiastic and hardworking developer with a passion for learning and creating.
                             </span>
                         </span>
                     </div>

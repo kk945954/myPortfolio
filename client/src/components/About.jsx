@@ -18,15 +18,15 @@ export default function About(props) {
   const fadeInSubscription = ScrollScreens.currentScreenFadeIn.subscribe(fadeInScreenHandler);
   
   const SCREEN_CONSTSANTS = {
-    description: "A dedicated Full-stack developer with knowledge in the MERN stack along with Redux. Proactively staying abreast of emerging technologies and best practices, continuously refining skills to deliver cutting-edge solutions. Committed to driving organizational success by leveraging technical expertise to develop scalable solutions that fuel business growth.",
+    description: "A dedicated Full-stack and skilled database developer with knowledge in the MERN stack along with Redux. Proactively staying abreast of emerging technologies and best practices, continuously refining skills to deliver cutting-edge solutions. Committed to driving organizational success by leveraging technical expertise in database design and optimization, along with developing scalable solutions that fuel business growth.",
     hightlights: {
       bullets:[
-        "Committed Full-stack developer",
+        "Dedicated Full-stack developer",
         "Proficient in the MERN stack and Redux",
+        "Skilled in database design and optimization",
         "Actively staying current with emerging technologies",
         "Continuously honing skills and expertise",
         "Dedicated to fostering organizational success",
-        "Skilled in developing scalable solutions"
       ],
       heading: "Highlights about me:"
     }
